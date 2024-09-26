@@ -9,7 +9,7 @@ const imageUrl =
 
   const customIcon = new L.Icon({
     iconUrl: 'https://cdn-icons-png.flaticon.com/512/8635/8635683.png',
-    iconSize: [25, 41],  // Size of the icon
+    iconSize: [60, 54],  // Size of the icon
     iconAnchor: [12, 41],  // Point of the icon which will correspond to marker's location
     popupAnchor: [1, -34],  // Point from which the popup should open relative to the iconAnchor
     shadowUrl: "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png",
